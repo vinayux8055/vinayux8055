@@ -1,152 +1,269 @@
-<!-- 
-  GitHub Profile README for vinayux8055
-  Edit the sections below anytime — look for <!-- comments --> for guidance.
--->
+# Hi there 👋, I'm **Marnala Gopi Vinay**
 
-<div align="center">
-
-# Hi there, I'm Gopi Vinay Marnala 👋
-
-### 💻 B.Tech CSE Student | Java & Python Developer | Full Stack Enthusiast
-
-<!-- Animated typing banner - edit the text in the "lines" param below -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+Pragati+Engineering+College;Java+%7C+Python+%7C+DSA+Enthusiast;Full+Stack+Web+Developer;Open+to+Internship+Opportunities!" alt="Typing SVG" />
-
-<p>
-  <a href="https://linkedin.com/in/vinayux8055"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vinayux8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vinayux8055"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://vinayuxportfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-</div>
+<h3 align="center">
+🚀 Building software that solves real-world problems
+</h3>
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-- 🎓 3rd-year **B.Tech CSE** student at **Pragati Engineering College**, Surampalem (GPA: 8.01/10)
-- 💡 Passionate about **Java, Python, Data Structures & Algorithms**, and building real-world web applications
-- 🌱 Completed a hands-on **Java Full Stack Development internship** at Anurag IT Solutions, working with Java, Spring Boot, HTML/CSS, JS, and MySQL
-- 🎯 **Currently looking for:** Software Development / Full Stack Development internship opportunities
-- 📈 Grew a **4,000+ follower LinkedIn community** by sharing technical content
-- 🏅 Fun fact: Represented my school in **District-Level Kabaddi** competitions before switching focus to code!
+🎓 B.Tech Computer Science Engineering Student at **Pragati Engineering College**
 
----
+💻 Passionate about **Java**, **Software Development**, **Web Development**, and **UI/UX Design**
 
-## 🛠️ Tech Stack
+🌱 Currently learning **Java Full Stack Development**, **Node.js**, and **Firebase**
 
-<div align="center">
+🧩 Love solving **Data Structures & Algorithms** problems
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎯 Goal: Become a **Software Engineer** and **Java Full Stack Developer**
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+✨ I enjoy turning ideas into real-world applications through clean code and thoughtful design.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Tech Stack
 
-### 📚 StudySync Pro
-A student productivity platform with a Pomodoro Timer, Task Manager, Study Planner, Goal Tracking, and Progress Analytics, built with a responsive, modern UI.  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-<!-- Add repo link below once uploaded -->
-🔗 [Repo](https://github.com/vinayux8055)
+### 👨‍💻 Programming Languages
 
-### 🏫 College Website
-A responsive college website showcasing academic information, events, faculty details, and contact info, with interactive components and a focus on accessibility and performance.  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-🔗 [Repo](https://github.com/vinayux8055)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🛒 E-Commerce Store (UI/UX Project)
-A modern e-commerce platform interface designed with user-centered UI/UX principles — wireframes, user flows, prototypes, and high-fidelity mockups for intuitive navigation and a streamlined checkout experience.  
-**Tools:** Figma  
-🔗 [Repo](https://github.com/vinayux8055)
+### 🎨 Frontend
 
-### 🤖 AI Virtual Assistant
-A Python-powered voice assistant with speech recognition and text-to-speech, capable of executing system commands, launching applications, and retrieving information via voice — automating routine tasks for a smoother user experience.  
-**Tech Stack:** Python  
-🔗 [Repo](https://github.com/vinayux8055)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 
-> 💡 *Add your live GitHub repo/demo links above as you upload each project.*
+### ⚙️ Backend
 
----
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
 
-## 📊 GitHub Stats
+### 🗄️ Database
 
-<div align="center">
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinayux8055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayux8055&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+### 🛠 Tools
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayux8055&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge\&logo=intellijidea)
+![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=for-the-badge\&logo=androidstudio)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
 
 ---
 
-## 🏆 Certifications & Achievements
+# 🚀 Featured Projects
 
-- ☕ **Java Programming Certification** — Scaler
-- 🎨 **UI/UX Design Certification** — Skill India
-- 🔐 **Cyber Security Certification** — SimpleLearn
-- 💼 **Java Full Stack Development Internship** — Anurag IT Solutions
-- 🥋 Represented school in **District-Level Kabaddi** competitions (10th Grade)
-- 📢 Built a **4,000+ follower** LinkedIn presence sharing technical content
-- 🎯 Ranked **1200 in AP EAMCET** (Andhra Pradesh Engineering Common Entrance Test)
+## 📚 StudySync Pro
 
----
+A modern student productivity platform designed to help students manage their academic life efficiently.
 
-## 📚 Currently Learning
+### Features
 
-- Advanced Data Structures & Algorithms
-- Java Full Stack Development (Spring Boot ecosystem)
-- Building and deploying real-world web applications
+* 📅 Study Planner
+* 🍅 Pomodoro Timer
+* ✅ Task Manager
+* 🎯 Goal Tracking
+* 📈 Progress Analytics
+* 📊 Performance Dashboard
 
----
+**Tech Stack**
 
-## 🤝 Open to Collaborate On
+HTML • CSS • JavaScript • Bootstrap
 
-- Open-source projects
-- Internship opportunities in Software/Full Stack Development
-- Web development projects (Java, Python, JS)
-- UI/UX design collaborations
+> <!-- Replace with your GitHub repository -->
+>
+> GitHub: https://github.com/vinayux8055/your-repository
 
 ---
 
-<div align="center">
+## 🏫 College Website
 
-### 📫 Let's Connect
+A responsive college website showcasing academic information, faculty details, events, and admissions.
 
-<a href="https://linkedin.com/in/vinayux8055"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vinayux8055@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/vinayux8055"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
-<a href="https://vinayuxportfolio.lovable.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+**Tech Stack**
 
-📞 +91-9949766982 &nbsp;|&nbsp; 📍 Mandapeta, Andhra Pradesh, India
+HTML • CSS • JavaScript • Bootstrap
 
-⭐️ *Thanks for stopping by — always open to interesting conversations and collaborations!*
+> <!-- Replace with your GitHub repository -->
+>
+> GitHub: https://github.com/vinayux8055/your-repository
 
-</div>
+---
+
+## 🤖 AI Virtual Assistant
+
+Python-based voice assistant capable of executing commands using speech recognition.
+
+### Features
+
+* Speech Recognition
+* Text-to-Speech
+* Voice Commands
+* System Automation
+
+**Tech Stack**
+
+Python
+
+> <!-- Replace with your GitHub repository -->
+>
+> GitHub: https://github.com/vinayux8055/your-repository
+
+---
+
+## 🛒 E-Commerce UI/UX
+
+Designed a modern shopping application using Figma.
+
+* Wireframes
+* High Fidelity Prototype
+* User Flow
+* Design System
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayux8055&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayux8055&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayux8055&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayux8055&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinayux8055&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/vinayux8055/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/vinayux8055">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/vinayux8055">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://vinayuxportfolio.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</p>
+
+---
+
+# 🏅 Certifications
+
+* ✅ Java Programming — Scaler
+* ✅ Java Full Stack Development Internship — Anurag IT Solutions
+* ✅ UI/UX Design — Skill India
+* ✅ Cyber Security — Simplilearn
+
+---
+
+# 🏆 Achievements
+
+🏅 AP ECET Rank **1200**
+
+📢 Built a LinkedIn community of **4,000+ Followers**
+
+🤾 Represented school in **District-Level Kabaddi Competition**
+
+---
+
+# 🌱 Currently Learning
+
+* Java Full Stack Development
+* Advanced Java
+* Node.js
+* Firebase
+* Data Structures & Algorithms
+* Software Engineering
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Crack a Software Engineering Internship
+* 💯 Solve 500+ DSA Problems
+* 🌟 Build 10+ Full Stack Projects
+* 📚 Master Java Backend Development
+* 🤝 Contribute to Open Source Projects
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [vinayux8055@gmail.com](mailto:vinayux8055@gmail.com)
+
+🌐 **Portfolio:** https://vinayuxportfolio.lovable.app
+
+💼 **LinkedIn:** https://linkedin.com/in/vinayux8055
+
+💻 **GitHub:** https://github.com/vinayux8055
+
+🧩 **LeetCode:** https://leetcode.com/u/vinayux8055/
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vinayux8055&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"Code. Learn. Build. Repeat."* ⭐
+
+</p>
