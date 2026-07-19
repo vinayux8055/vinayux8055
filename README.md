@@ -27,15 +27,7 @@
 
 ## 💫 About Me
 
-```java
-public class GopiVinay {
-    String role = "B.Tech CSE Student @ Pragati Engineering College";
-    String[] skills = {"Java", "Python", "DSA", "Full Stack Development", "UI/UX"};
-    String currentFocus = "Java Full Stack Development, Node.js, Firebase";
-    String goal = "Software Engineer / Java Full Stack Developer";
-    boolean openToWork = true;
-}
-```
+I'm a 3rd-year **Computer Science Engineering** student who enjoys building clean, practical software — from full-stack web apps to voice-controlled assistants. I'm currently sharpening my **Java and DSA** skills while exploring **Node.js and Firebase**, with the goal of becoming a strong **Software Engineer / Java Full Stack Developer**.
 
 - 🎓 3rd-year **B.Tech CSE** student at **Pragati Engineering College**, GPA **8.01/10**
 - 💼 Completed a **Java Full Stack Development internship** at Anurag IT Solutions (Java, Spring Boot, HTML/CSS/JS, MySQL)
