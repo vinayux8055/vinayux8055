@@ -1,8 +1,13 @@
 # Hi there 👋, I'm **Marnala Gopi Vinay**
+<p align="center">
+  <img src="images/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
+# Hi there 👋, I'm Marnala Gopi Vinay
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast" />
+</p>>
 
 <h3 align="center">
 🚀 Building software that solves real-world problems
