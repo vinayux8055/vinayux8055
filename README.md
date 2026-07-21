@@ -9,8 +9,8 @@
 <!-- Wave banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0AC9C9&height=200&section=header&text=Marnala%20Gopi%20Vinay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<!-- Typing animation (fixed: was pointing at a dead herokuapp.com host) -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Java+Full+Stack+Developer;Aspiring+Software+Engineer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
@@ -119,7 +119,60 @@ A modern shopping app interface — wireframes, high-fidelity prototypes, user f
 </tr>
 </table>
 
-> 💡 Replace each `your-repository` link and add live demo URLs as you push these projects to GitHub.
+> 💡 Replace each `your-repository` link and add live demo URLs as you push these projects to GitHub. Placeholder links are the #1 reason a README *looks* fine but its buttons go nowhere.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vinayux8055/vinayux8055/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+> ⚠️ This one won't render until you add the workflow below to your repo — GitHub has to generate the SVG for you, it's not a static image link like the others.
+
+<details>
+<summary>⚙️ One-time setup: enable the snake animation</summary>
+
+1. In your `vinayux8055/vinayux8055` repo, create the file `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit it, then run the workflow once manually from the **Actions** tab (`Generate Snake` → `Run workflow`).
+3. It'll create an `output` branch with the SVG — after that the image above will render, and it'll refresh itself every 6 hours.
+
+</details>
 
 ---
 
@@ -130,7 +183,7 @@ A modern shopping app interface — wireframes, high-fidelity prototypes, user f
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vinayux8055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayux8055&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayux8055&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=vinayux8055&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayux8055&theme=tokyo-night&hide_border=true"/>
 
