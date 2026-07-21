@@ -120,7 +120,7 @@ A modern shopping app interface — wireframes, high-fidelity prototypes, user f
 </tr>
 </table>
 
-> 💡 Replace each `your-repository` link and add live demo URLs as you push these projects to GitHub.
+> 💡 Replace each `vinayux8055` link and add live demo URLs as you push these projects to GitHub.
 
 ---
 
