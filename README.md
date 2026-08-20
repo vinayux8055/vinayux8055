@@ -45,6 +45,9 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/25A35A0519">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -93,16 +96,6 @@ Python-based virtual assistant with voice commands and task automation.
 ### 🏫 College Website
 Responsive college website built using HTML, CSS, JavaScript, and Bootstrap.
 
----
-
-# 💼 Internship
-
-**Java Full Stack Development Intern**  
-Anurag IT Solutions  
-October 2024 – April 2025
-
----
-
 # 🎯 Career Objective
 
 I am passionate about Java and backend development. My goal is to become a skilled Java Backend Developer by improving my problem-solving skills, learning Spring Boot, building real-world projects, and gaining industry experience.
@@ -127,8 +120,5 @@ I am passionate about Java and backend development. My goal is to become a skill
 
 <img src="https://komarev.com/ghpvc/?username=vinayux8055&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/vinayux8055?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/vinayux8055?style=for-the-badge&logo=github"/>
 
 </p>
