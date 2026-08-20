@@ -1,9 +1,8 @@
-<h2 align="center">📈 GitHub Activity</h2>
+<h2>📅 My Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayux8055&theme=github-dark" />
+  <img src="https://ghchart.rshah.org/409ba5/vinayux8055" alt="Vinay's GitHub Contribution Calendar"/>
 </p>
-
 
 
 <h1 align="center">Hello, I'm Marnala Gopi Vinay</h1>
