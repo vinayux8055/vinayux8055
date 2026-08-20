@@ -1,3 +1,11 @@
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayux8055&theme=github-dark" />
+</p>
+
+
+
 <h1 align="center">Hello, I'm Marnala Gopi Vinay</h1>
 
 <p align="center">
