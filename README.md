@@ -1,33 +1,134 @@
-# Hi 👋, I'm Marnala Gopi Vinay
+<h1 align="center">Hello, I'm Marnala Gopi Vinay</h1>
 
-🎓 B.Tech CSE Student  
-☕ Java & Backend Development Enthusiast  
-🧠 Practicing DSA in Java  
-🌱 Learning Spring Boot and SQL  
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Java+Developer;Backend+Development+Enthusiast;Java+%7C+DSA+%7C+SQL+%7C+Spring+Boot" alt="Typing SVG"/>
+</p>
 
-## Skills
+---
 
+# 🚀 About Me
+
+💻 Aspiring **Java Backend Developer**
+
+☕ Passionate about Java, backend development, problem solving, and building real-world applications.
+
+🎓 B.Tech CSE Student at **Pragati Engineering College**
+
+🌱 Currently Learning
 - Java
-- Python
-- HTML, CSS, JavaScript
-- SQL, MySQL
-- Git & GitHub
+- Data Structures & Algorithms
+- SQL
+- Spring Boot
+- Project Building
 
-## Projects
+💡 I enjoy solving programming problems and improving my development skills.
 
-- StudySync Pro
-- College Website
-- AI Virtual Assistant
-- E-Commerce UI/UX Design
+---
 
-## Experience
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vinayux8055@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vinayux8055">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vinayux8055">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/vinayux8055">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Technical Skills
+
+👨‍💻 Programming Languages  
+- Java (main Lnguage ) 
+- pyhton 
+
+🧠 Core Skills  
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Computer Networks
+- Operating systems
+- Databases
+
+🗄️ Database  
+- SQL
+- MySQL
+
+🌐 Web Technologies  
+- HTML
+- CSS
+- JavaScript
+
+🛠️ Tools  
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Figma
+- Android Studio
+  
+
+---
+
+# 🚀 Projects
+
+### 📚 StudySync Pro
+Student productivity platform for managing study plans, tasks, goals, and progress.
+
+### 🤖 AI Virtual Assistant
+Python-based virtual assistant with voice commands and task automation.
+
+### 🏫 College Website
+Responsive college website built using HTML, CSS, JavaScript, and Bootstrap.
+
+---
+
+# 💼 Internship
 
 **Java Full Stack Development Intern**  
-Anurag IT Solutions
+Anurag IT Solutions  
+October 2024 – April 2025
 
-## Connect With Me
+---
 
-- [LinkedIn](https://linkedin.com/in/vinayux8055)
-- [LeetCode](https://leetcode.com/u/vinayux8055)
-- [GitHub](https://github.com/vinayux8055)
-- Email: vinayux8055@gmail.com
+# 🎯 Career Objective
+
+I am passionate about Java and backend development. My goal is to become a skilled Java Backend Developer by improving my problem-solving skills, learning Spring Boot, building real-world projects, and gaining industry experience.
+
+---
+
+# 💬 Favorite Quote
+
+> "Think Big, Dream Big, Achieve Big."
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+💙 Let's build something amazing together!
+
+</h3>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vinayux8055&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/vinayux8055?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/vinayux8055?style=for-the-badge&logo=github"/>
+
+</p>
