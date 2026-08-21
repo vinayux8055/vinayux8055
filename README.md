@@ -1,8 +1,3 @@
-<h2>📅 My Contributions</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/vinayux8055" alt="Vinay's GitHub Contribution Calendar"/>
-</p>
 
 
 <h1 align="center">Hello, I'm Marnala Gopi Vinay</h1>
